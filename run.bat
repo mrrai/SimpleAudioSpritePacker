@@ -1,0 +1,3 @@
+@echo audioSprite batching...
+npm start
+exit
